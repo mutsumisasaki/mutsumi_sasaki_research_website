@@ -1,0 +1,95 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Mutsumi Sasaki
+email: sasaki.mutsumi.q5@dc.tohoku.ac.jp
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Write an awesome description for your new site here. You can edit this
+#   line in _config.yml. It will appear in your document head meta (for
+#   Google search results) and in your feed.xml site description.
+baseurl: "mutsumi_sasaki_research_website" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: mutsumi_sasaki
+github_username:  mutsumisasaki
+
+# Build settings
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+show_recent_posts: false
+plugins:
+  - jekyll-feed
+
+# defaults:
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       author_profile: true  # 投稿ページでプロフィールを表示
+#   - scope:
+#       path: ""
+#       type: pages
+#     values:
+#       author_profile: true  # 固定ページでもプロフィールを表示
+
+# 著者情報（サイドバーで使用）
+author:
+  name: "Mutsumi Sasaki"
+  avatar: "/assets/images/profile.jpg"
+  bio: "Tohoku NLP Group / Natural Language Processing"
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:sasaki.mutsumi.q5@dc.tohoku.ac.jp"
+    - label: "X (formerly Twitter)"
+      icon: "fab fa-x-twitter" 
+      url: "https://twitter.com/mutsumi_sasaki"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/mutsumisasaki"
+
+# # サイドバーを有効化
+# sidebar:
+#   entries:
+#     - author_profile
+#     - categories
+#     - tags
+
+navigation: []
+
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+# exclude:
+#   - .sass-cache/
+#   - .jekyll-cache/
+#   - gemfiles/
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
