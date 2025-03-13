@@ -47,7 +47,13 @@ layout: posts
 <hr>
 
 ## <a id="Award"></a> Award
+- **言語処理学会第31回年次大会(NLP2025) スポンサー賞(日本経済新聞社 CDIO室賞)**
+    - **Title:** LMは日本の時系列構造をどうエンコードするか
+    - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
+    - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 - **[JPHACKS2024 イノベーター認定](https://jphacks.com/2024/result/)** (7/98=7.1%)
-- **[JPHACKS2024 スポンサー賞 (ウルシステムズ株式会社賞)](https://jphacks.com/2024/result/)** 
+- **[JPHACKS2024 スポンサー賞(ウルシステムズ株式会社賞)](https://jphacks.com/2024/result/)** 
     - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
     - **Abstruct:** OpenAI APIによる最新のLM, VLMを利用してユーザーの「楽しい」を目指した英語スピーキング学習アプリ
+
