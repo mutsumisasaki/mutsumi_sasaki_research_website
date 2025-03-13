@@ -47,7 +47,7 @@ layout: posts
 <hr>
 
 ## <a id="Award"></a> Award
-- **言語処理学会第31回年次大会(NLP2025) スポンサー賞(日本経済新聞社 CDIO室賞)**
+- **[言語処理学会第31回年次大会(NLP2025) スポンサー賞(日本経済新聞社 CDIO室賞)](https://anlp.jp/nlp2025/award.html)**
     - **Title:** LMは日本の時系列構造をどうエンコードするか
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
     - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
