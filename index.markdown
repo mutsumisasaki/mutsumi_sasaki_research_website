@@ -19,8 +19,7 @@ layout: posts
 <hr>
 
 ## <a id="about-me"></a> About Me
-- Mutsumi Sasaki is a third-year bachelor’s student at Tohoku University.
-- He is scheduled to become a first-year master’s student at the Graduate School of Information Sciences, Tohoku University in April 2025 through early graduation.
+- Mutsumi Sasaki is a first-year master’s student at the Graduate School of Information Sciences, Tohoku University.
 - He belongs to the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) and specializes in natural language processing.
 
 <hr>
