@@ -24,10 +24,13 @@ layout: posts
 
 <hr>
 
-## <a id="contact"></a> Contact
-- Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-- X: <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank">@{{ site.twitter_username }}</a>
-- GitHub: <a href="https://github.com/{{ site.github_username }}" target="_blank">{{ site.github_username }}</a>
+## <a id="Education"></a> Education
+- **Bachelor of Engineering: 2022.04-2025.03 (Early Graduation)**
+  - School of Engineering, Tohoku University
+  - Supervisor: Prof. Kentaro Inui & Assoc. Prof. Keisuke Sakaguchi
+- **Master of Information Science: 2025.04-**
+  - Graduate School of Information Sciences, Tohoku University
+  - Supervisor: Prof. Kentaro Inui & Assoc. Prof. Keisuke Sakaguchi
 
 <hr>
 
@@ -58,11 +61,16 @@ layout: posts
     - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
     - **Abstruct:** OpenAI APIによる最新のLM, VLMを利用してユーザーの「楽しい」を目指した英語スピーキング学習アプリ
 
-## Experiences
+<hr>
+
+## <a id="Experiences"></a> Experiences
 - **National Institute of Informatics**
   - LLM-jp Research Assistant: 2025.06-Present
+  - Supervisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Kouta Nakayama](https://k141303.github.io/), [Masaru Isonuma](https://researchmap.jp/misonuma)
 
-## <a id="Others"></a> Workshop
+<hr>
+
+## <a id="Others"></a> Others
 - **[The First Workshop on Fine-Tuning and Evaluation of Large Language Models (FT-LLM 2025)](https://llm-jp.github.io/tuning-competition/)**
     - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
-<hr>
+- **[JPHACKS2024](https://jphacks.com/2024/detail/)**
