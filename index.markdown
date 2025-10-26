@@ -34,7 +34,7 @@ layout: posts
 ## <a id="International Conference"></a> International Conference
 - **Can Language Models Handle a Non-Gregorian Calendar?**
     - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
-    - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2025)](https://2025.aaclnet.org/)
+    - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2025](https://2025.aaclnet.org/)
     - **Paper:** 
       - [OpenReview](https://openreview.net/forum?id=rNiwESW71c#discussion)
       - [ArXiv](https://arxiv.org/abs/2509.04432)
@@ -45,11 +45,6 @@ layout: posts
     - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
     - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 
-<hr>
-
-## <a id="workshop"></a> Workshop
-- **[The First Workshop on Fine-Tuning and Evaluation of Large Language Models (FT-LLM 2025)](https://llm-jp.github.io/tuning-competition/)**
-    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
 <hr>
 
 ## <a id="Award"></a> Award
@@ -63,4 +58,11 @@ layout: posts
     - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
     - **Abstruct:** OpenAI APIによる最新のLM, VLMを利用してユーザーの「楽しい」を目指した英語スピーキング学習アプリ
 
-## Experience
+## Experiences
+- **National Institute of Informatics**
+  - LLM-jp Research Assistant: 2025.06-Present
+
+## <a id="Others"></a> Workshop
+- **[The First Workshop on Fine-Tuning and Evaluation of Large Language Models (FT-LLM 2025)](https://llm-jp.github.io/tuning-competition/)**
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
+<hr>
