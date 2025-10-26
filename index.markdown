@@ -10,7 +10,7 @@ layout: posts
     <p>{{ site.author.bio }}</p>
     <p>
       <a href="mailto:sasaki.mutsumi.q5@dc.tohoku.ac.jp"><i class="fas fa-envelope"></i> Email</a> |
-      <a href="https://twitter.com/mutsumi_sasaki"><i class="fab fa-x-twitter"></i> X (formerly twitter)</a> |
+      <a href="https://twitter.com/mutsumi_sasaki"><i class="fab fa-x-twitter"></i> X (twitter)</a> |
       <a href="https://github.com/mutsumisasaki"><i class="fab fa-github"></i> GitHub</a>
     </p>
   </div>
