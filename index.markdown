@@ -59,7 +59,6 @@ layout: posts
 - **[JPHACKS2024 イノベーター認定](https://jphacks.com/2024/result/)** (7/98=7.1%)
 - **[JPHACKS2024 スポンサー賞(ウルシステムズ株式会社賞)](https://jphacks.com/2024/result/)** 
     - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
-    - **Abstruct:** OpenAI APIによる最新のLM, VLMを利用してユーザーの「楽しい」を目指した英語スピーキング学習アプリ
 
 <hr>
 
