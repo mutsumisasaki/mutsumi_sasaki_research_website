@@ -37,7 +37,7 @@ layout: posts
 ## <a id="International Conference"></a> International Conference
 - **Can Language Models Handle a Non-Gregorian Calendar?**
     - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
-    - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2025](https://2025.aaclnet.org/)
+    - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)
     - **Paper:** 
       - [OpenReview](https://openreview.net/forum?id=rNiwESW71c#discussion)
       - [ArXiv](https://arxiv.org/abs/2509.04432)
