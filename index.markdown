@@ -39,7 +39,7 @@ layout: posts
     - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
     - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)
     - **Paper:** 
-      - [OpenReview](https://openreview.net/forum?id=AAoEKFYflm&noteId=trPEhqRJLm)
+      - [OpenReview](https://openreview.net/forum?id=AAoEKFYflm)
       - [ArXiv](https://arxiv.org/abs/2509.04432)
 
 ## <a id="Domestic Conference"></a> Domestic Conference
