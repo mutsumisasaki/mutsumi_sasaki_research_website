@@ -19,7 +19,7 @@ layout: posts
 <hr>
 
 ## <a id="about-me"></a> About Me
-- Mutsumi Sasaki is a first-year master’s student at the Graduate School of Information Sciences, Tohoku University.
+- Mutsumi Sasaki is a first-year master’s student (M1) at the Graduate School of Information Sciences, Tohoku University.
 - He belongs to the [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/) and specializes in natural language processing.
 
 <hr>
@@ -31,9 +31,17 @@ layout: posts
 
 <hr>
 
-## <a id="publications"></a> Publications
+## <a id="International Conference"></a> International Conference
+- **Can Language Models Handle a Non-Gregorian Calendar?**
+    - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
+    - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: AACL-IJCNLP 2025)](https://2025.aaclnet.org/)
+    - **Paper:** 
+      - [OpenReview](https://openreview.net/forum?id=rNiwESW71c#discussion)
+      - [ArXiv](https://arxiv.org/abs/2509.04432)
+
+## <a id="Domestic Conference"></a> Domestic Conference
 - **LMは日本の時系列構造をどうエンコードするか**
-    - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
+    - **Author:** 佐々木睦史, 鴨田豪, 高橋良允, Benjamin Heinzerling, 坂口慶祐
     - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
     - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 
@@ -42,7 +50,6 @@ layout: posts
 ## <a id="workshop"></a> Workshop
 - **[The First Workshop on Fine-Tuning and Evaluation of Large Language Models (FT-LLM 2025)](https://llm-jp.github.io/tuning-competition/)**
     - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
-
 <hr>
 
 ## <a id="Award"></a> Award
@@ -56,3 +63,4 @@ layout: posts
     - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
     - **Abstruct:** OpenAI APIによる最新のLM, VLMを利用してユーザーの「楽しい」を目指した英語スピーキング学習アプリ
 
+## Experience
