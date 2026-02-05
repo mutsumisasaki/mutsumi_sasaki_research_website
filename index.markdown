@@ -49,7 +49,7 @@ layout: posts
 - **排他的逆学習**
     - **Author:** 佐々木睦史, 中山功太, 宮尾祐介, 大関洋平, 磯沼大
     - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://www.anlp.jp/proceedings/annual_meeting/2026/#:~:text=B2%2D16,%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92)
-    - **Paper** プログラムにて近日公開予定
+    - **Paper:** プログラムにて近日公開予定
 - **言語モデルにおける共参照解決を担う注意ヘッドの分析**
     - **Author:** 澤田紘希, 佐々木睦史, 坂口慶祐, Benjamin Heinzerling
     - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://www.anlp.jp/proceedings/annual_meeting/2026/#:~:text=%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%85%B1%E5%8F%82%E7%85%A7%E8%A7%A3%E6%B1%BA%E3%82%92%E6%8B%85%E3%81%86%E6%B3%A8%E6%84%8F%E3%83%98%E3%83%83%E3%83%89%E3%81%AE%E5%88%86%E6%9E%90)
