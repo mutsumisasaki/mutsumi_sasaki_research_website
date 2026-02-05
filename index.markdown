@@ -35,18 +35,22 @@ layout: posts
 <hr>
 
 ## <a id="International Conference"></a> International Conference
-- **Can Language Models Handle a Non-Gregorian Calendar?**
+- **Can Language Models Handle a Non-Gregorian Calendar? The Case of the Japanese *Wareki***
     - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
     - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)
     - **Paper:** 
-      - [OpenReview](https://openreview.net/forum?id=AAoEKFYflm)
+      - [ACL Anthology](https://aclanthology.org/2025.ijcnlp-short.36/)
       - [ArXiv](https://arxiv.org/abs/2509.04432)
 
 ## <a id="Domestic Conference"></a> Domestic Conference
 - **LMは日本の時系列構造をどうエンコードするか**
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允, Benjamin Heinzerling, 坂口慶祐
-    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/proceedings/annual_meeting/2025/#:~:text=LM%20%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E6%99%82%E7%B3%BB%E5%88%97%E6%A7%8B%E9%80%A0%E3%82%92%E3%81%A9%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%81%8B)
     - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
+- **排他的逆学習**
+    - **Author:** 佐々木睦史, 中山功太, 宮尾祐介, 大関洋平, 磯沼大
+    - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://www.anlp.jp/proceedings/annual_meeting/2026/#:~:text=B2%2D16,%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92)
+    - **Paper** プログラムにて近日公開予定
 
 <hr>
 
@@ -65,7 +69,7 @@ layout: posts
 ## <a id="Experiences"></a> Experiences
 - **National Institute of Informatics**
   - LLM-jp Research Assistant: 2025.06-Present
-  - Supervisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Kouta Nakayama](https://k141303.github.io/), [Masaru Isonuma](https://researchmap.jp/misonuma)
+  - Supervisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Kouta Nakayama](https://k141303.github.io/), [Masaru Isonuma](https://www.isonuma.com/)
 
 <hr>
 
