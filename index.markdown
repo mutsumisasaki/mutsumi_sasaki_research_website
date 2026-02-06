@@ -38,8 +38,7 @@ layout: posts
 - **Can Language Models Handle a Non-Gregorian Calendar? The Case of the Japanese *Wareki***
     - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
     - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)
-    - **Paper:** 
-      - [ACL Anthology](https://aclanthology.org/2025.ijcnlp-short.36/), [ArXiv](https://arxiv.org/abs/2509.04432)
+    - **Paper:** [ACL Anthology](https://aclanthology.org/2025.ijcnlp-short.36/), [ArXiv](https://arxiv.org/abs/2509.04432)
 
 ## <a id="Domestic Conference"></a> Domestic Conference
 - **LMは日本の時系列構造をどうエンコードするか**
