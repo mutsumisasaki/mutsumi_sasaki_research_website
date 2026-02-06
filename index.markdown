@@ -60,7 +60,7 @@ layout: posts
 - **[言語処理学会第31回年次大会(NLP2025) スポンサー賞(日本経済新聞社 CDIO室賞)](https://anlp.jp/nlp2025/award.html)**
     - **Title:** LMは日本の時系列構造をどうエンコードするか
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
-    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/proceedings/annual_meeting/2025/#:~:text=LM%20%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E6%99%82%E7%B3%BB%E5%88%97%E6%A7%8B%E9%80%A0%E3%82%92%E3%81%A9%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%81%8B)
     - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 - **[JPHACKS2024 イノベーター認定](https://jphacks.com/2024/result/)** (7/98=7.1%)
 - **[JPHACKS2024 スポンサー賞(ウルシステムズ株式会社賞)](https://jphacks.com/2024/result/)** 
