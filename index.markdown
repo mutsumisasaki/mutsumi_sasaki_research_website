@@ -56,10 +56,15 @@ layout: posts
 <hr>
 
 ## <a id="Award"></a> Award
-- **[言語処理学会第31回年次大会(NLP2025) スポンサー賞(日本経済新聞社 CDIO室賞)](https://anlp.jp/nlp2025/award.html)**
+- **[言語処理学会第31回年次大会(NLP2026) 若手奨励賞　(20/487, 4.1%))](https://www.anlp.jp/nlp2026/award.html#:~:text=B2%2D16-,%E6%8E%92%E4%BB%96%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92,-%E4%BD%90%E3%80%85%E6%9C%A8%20%E7%9D%A6%E5%8F%B2)**
+    - **Title:** 排他的逆学習
+    - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
+    - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://anlp.jp/nlp2026/)
+    - **Paper:** [PDF]({{ "/assets/papers/排他的逆学習.pdf" | relative_url }})
+- **[言語処理学会第31回年次大会(NLP2025) スポンサー賞(日本経済新聞社 CDIO室賞)](https://www.anlp.jp/nlp2025/award.html#:~:text=%E9%81%B8%E5%AE%9A%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%8E-,%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E7%A4%BE%20CDIO%E5%AE%A4%E8%B3%9E,-A7%2D5)**
     - **Title:** LMは日本の時系列構造をどうエンコードするか
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
-    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/proceedings/annual_meeting/2025/#:~:text=LM%20%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E6%99%82%E7%B3%BB%E5%88%97%E6%A7%8B%E9%80%A0%E3%82%92%E3%81%A9%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%81%8B)
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://anlp.jp/nlp2025/)
     - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 - **[JPHACKS2024 イノベーター認定](https://jphacks.com/2024/result/)** (7/98=7.1%)
 - **[JPHACKS2024 スポンサー賞(ウルシステムズ株式会社賞)](https://jphacks.com/2024/result/)** 
