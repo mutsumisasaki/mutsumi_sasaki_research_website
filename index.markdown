@@ -56,7 +56,7 @@ layout: posts
 <hr>
 
 ## <a id="Award"></a> Award
-- **[言語処理学会第31回年次大会(NLP2026) 若手奨励賞　(20/487, 4.1%))](https://www.anlp.jp/nlp2026/award.html#:~:text=B2%2D16-,%E6%8E%92%E4%BB%96%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92,-%E4%BD%90%E3%80%85%E6%9C%A8%20%E7%9D%A6%E5%8F%B2)**
+- **[言語処理学会第32回年次大会(NLP2026) 若手奨励賞　(20/487, 4.1%))](https://www.anlp.jp/nlp2026/award.html#:~:text=B2%2D16-,%E6%8E%92%E4%BB%96%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92,-%E4%BD%90%E3%80%85%E6%9C%A8%20%E7%9D%A6%E5%8F%B2)**
     - **Title:** 排他的逆学習
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允 (東北大学), Benjamin Heinzerling, 坂口慶祐 (東北大学/理研)
     - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://anlp.jp/nlp2026/)
