@@ -79,7 +79,7 @@ layout: posts
 <hr>
 
 ## <a id="Experiences"></a> Experiences
-- **National Institute of Informatics: Research and Development Center for Large Language Models (NII LLNC)**
+- **[National Institute of Informatics: Research and Development Center for Large Language Models (NII LLNC)](https://llmc.nii.ac.jp/)**
   - LLM-jp Research Assistant: 2025.06-Present
   - Supervisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Kouta Nakayama](https://k141303.github.io/), [Masaru Isonuma](https://www.isonuma.com/)
 
