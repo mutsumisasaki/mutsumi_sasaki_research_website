@@ -82,7 +82,5 @@ layout: posts
   - LLM-jp Research Assistant: 2025.06-Present
   - Supervisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Kouta Nakayama](https://k141303.github.io/), [Masaru Isonuma](https://www.isonuma.com/)
 
-<hr>
-
-## <a id="Others"></a> Others
 - **[JPHACKS2024](https://jphacks.com/2024/detail/)**
+<hr>
