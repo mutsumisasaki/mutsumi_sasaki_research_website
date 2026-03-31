@@ -72,6 +72,7 @@ layout: posts
     - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://anlp.jp/nlp2025/)
     - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 - **[JPHACKS2024 イノベーター認定](https://jphacks.com/2024/result/)** (7/98=7.1%)
+    - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
 - **[JPHACKS2024 スポンサー賞(ウルシステムズ株式会社賞)](https://jphacks.com/2024/result/)** 
     - **Title:** [Eigoイスト](https://github.com/jphacks/sd_2401)
 
