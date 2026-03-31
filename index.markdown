@@ -40,6 +40,8 @@ layout: posts
     - **Conference:** [International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics: IJCNLP-AACL 2025](https://2025.aaclnet.org/)
     - **Paper:** [ACL Anthology](https://aclanthology.org/2025.ijcnlp-short.36/), [ArXiv](https://arxiv.org/abs/2509.04432)
 
+<hr>
+
 ## <a id="Domestic Conference"></a> Domestic Conference
 - **LMは日本の時系列構造をどうエンコードするか**
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允, Benjamin Heinzerling, 坂口慶祐
