@@ -55,6 +55,11 @@ layout: posts
     - **Paper:** [PDF]({{ "/assets/papers/言語モデルにおける共参照解決を担う注意ヘッドの分析.pdf" | relative_url }})
 <hr>
 
+## <a id="Domestic Workshop"></a> Domestic Workshop
+- **[The First Workshop on Fine-Tuning and Evaluation of Large Language Models (FT-LLM 2025)](https://llm-jp.github.io/tuning-competition/2025/workshop.html#:~:text=%E4%BD%90%E8%97%A4%E4%BD%90%E3%80%85%E6%9C%A8%E7%A8%AE%E5%8F%A3%3A%20%E4%BD%90%E8%97%A4%E9%AD%81%20(%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6)%2C%20%E4%BD%90%E3%80%85%E6%9C%A8%E7%9D%A6%E5%8F%B2%20(%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6)%2C%20%E7%A8%AE%E5%8F%A3%E6%9A%81%E4%BA%BA%20(%E6%9D%B1%E5%8C%97%E5%A4%A7%E5%AD%A6))**
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
+<hr>
+
 ## <a id="Award"></a> Award
 - **[言語処理学会第32回年次大会(NLP2026) 若手奨励賞　(20/487, 4.1%)](https://www.anlp.jp/nlp2026/award.html#:~:text=B2%2D16-,%E6%8E%92%E4%BB%96%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92,-%E4%BD%90%E3%80%85%E6%9C%A8%20%E7%9D%A6%E5%8F%B2)**
     - **Title:** 排他的逆学習
@@ -80,6 +85,4 @@ layout: posts
 <hr>
 
 ## <a id="Others"></a> Others
-- **[The First Workshop on Fine-Tuning and Evaluation of Large Language Models (FT-LLM 2025)](https://llm-jp.github.io/tuning-competition/)**
-    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/nlp2025/)
 - **[JPHACKS2024](https://jphacks.com/2024/detail/)**
