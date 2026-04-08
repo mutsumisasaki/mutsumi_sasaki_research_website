@@ -42,6 +42,13 @@ layout: posts
 
 <hr>
 
+## <a id="Preprint"></a> Preprint
+- **Exclusive Unlearning**
+    - **Author:** Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao, Yohei Oseki, Masaru Isonuma
+    - **Paper:** [ArXiv](https://arxiv.org/abs/2604.06154)
+
+<hr>
+
 ## <a id="Domestic Conference"></a> Domestic Conference
 - **LMは日本の時系列構造をどうエンコードするか**
     - **Author:** 佐々木睦史, 鴨田豪, 高橋良允, Benjamin Heinzerling, 坂口慶祐
@@ -83,6 +90,6 @@ layout: posts
 ## <a id="Experiences"></a> Experiences
 - **[National Institute of Informatics: Research and Development Center for Large Language Models (NII LLNC)](https://llmc.nii.ac.jp/)**
   - LLM-jp Research Assistant: 2025.06-Present
-  - Supervisor: [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Kouta Nakayama](https://k141303.github.io/), [Masaru Isonuma](https://www.isonuma.com/)
+  - Supervisor: [Kouta Nakayama](https://k141303.github.io/), [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Masaru Isonuma](https://www.isonuma.com/)
 
 - **[JPHACKS2024](https://jphacks.com/2024/detail/)**
