@@ -45,7 +45,7 @@ layout: posts
 ## <a id="Preprint"></a> Preprint
 - **Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics**
     - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
-    - **Paper:** [ArXiv](https://arxiv.org/pdf/2606.03982)
+    - **Paper:** [ArXiv](https://arxiv.org/abs/2606.03982)
 - **Exclusive Unlearning**
     - **Author:** Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao, Yohei Oseki, Masaru Isonuma
     - **Paper:** [ArXiv](https://arxiv.org/abs/2604.06154)
