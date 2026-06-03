@@ -43,6 +43,9 @@ layout: posts
 <hr>
 
 ## <a id="Preprint"></a> Preprint
+- **Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics**
+    - **Author:** Mutsumi Sasaki, Go Kamoda, Ryosuke Takahashi, Kosuke Sato, Kentaro Inui, Keisuke Sakaguchi, Benjamin Heinzerling
+    - **Paper:** [ArXiv](https://arxiv.org/pdf/2606.03982)
 - **Exclusive Unlearning**
     - **Author:** Mutsumi Sasaki, Kouta Nakayama, Yusuke Miyao, Yohei Oseki, Masaru Isonuma
     - **Paper:** [ArXiv](https://arxiv.org/abs/2604.06154)
@@ -88,7 +91,7 @@ layout: posts
 <hr>
 
 ## <a id="Experiences"></a> Experiences
-- **[National Institute of Informatics: Research and Development Center for Large Language Models (NII LLNC)](https://llmc.nii.ac.jp/)**
+- **[National Institute of Informatics: Research and Development Center for Large Language Models (NII LLMC)](https://llmc.nii.ac.jp/)**
   - LLM-jp Research Assistant: 2025.06-Present
   - Supervisor: [Kouta Nakayama](https://k141303.github.io/), [Yusuke Miyao](https://researchmap.jp/yusuke/?lang=ja), [Yohei Oseki](https://researchmap.jp/oseki), [Masaru Isonuma](https://www.isonuma.com/)
 
