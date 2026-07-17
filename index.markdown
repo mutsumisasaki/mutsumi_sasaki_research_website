@@ -30,7 +30,7 @@ layout: posts
   - Supervisor: Prof. Kentaro Inui & Assoc. Prof. Keisuke Sakaguchi
 - **Master of Information Science: 2025.04-**
   - Graduate School of Information Sciences, Tohoku University
-  - Supervisor: Prof. Kentaro Inui & Assoc. Prof. Keisuke Sakaguchi
+  - Supervisor: Prof. Kentaro Inui & Prof. Keisuke Sakaguchi
 
 <hr>
 
