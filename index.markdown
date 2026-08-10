@@ -57,10 +57,6 @@ classes: research-home
     - **Authors:** 佐々木睦史, 葉夢宇, 趙羽風, 工藤慧音, 坂口慶祐, 鈴木潤
     - **Conference:** [The 21st Symposium of Young Researcher Association for NLP Studies (YANS 2026)](https://yans.anlp.jp/entry/yans2026program#:~:text=%5BS1%2DP30%5D%20%E4%B8%80%E6%A7%98%E6%8B%A1%E6%95%A3%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E8%83%BD%E5%8A%9B%E7%8D%B2%E5%BE%97%E9%81%8E%E7%A8%8B)
     - **Poster**: Coming Soon
-- **LMは日本の時系列構造をどうエンコードするか**
-    - **Author:** 佐々木睦史, 鴨田豪, 高橋良允, Benjamin Heinzerling, 坂口慶祐
-    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/proceedings/annual_meeting/2025/#:~:text=LM%20%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E6%99%82%E7%B3%BB%E5%88%97%E6%A7%8B%E9%80%A0%E3%82%92%E3%81%A9%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%81%8B)
-    - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 - **排他的逆学習**
     - **Author:** 佐々木睦史, 中山功太, 宮尾祐介, 大関洋平, 磯沼大
     - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://www.anlp.jp/proceedings/annual_meeting/2026/#:~:text=B2%2D16,%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92)
@@ -69,6 +65,10 @@ classes: research-home
     - **Author:** 澤田紘希, 佐々木睦史, 坂口慶祐, Benjamin Heinzerling
     - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://www.anlp.jp/proceedings/annual_meeting/2026/#:~:text=%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%85%B1%E5%8F%82%E7%85%A7%E8%A7%A3%E6%B1%BA%E3%82%92%E6%8B%85%E3%81%86%E6%B3%A8%E6%84%8F%E3%83%98%E3%83%83%E3%83%89%E3%81%AE%E5%88%86%E6%9E%90)
     - **Paper:** [PDF]({{ "/assets/papers/言語モデルにおける共参照解決を担う注意ヘッドの分析.pdf" | relative_url }})
+- **LMは日本の時系列構造をどうエンコードするか**
+    - **Author:** 佐々木睦史, 鴨田豪, 高橋良允, Benjamin Heinzerling, 坂口慶祐
+    - **Conference:** [In Proceedings of the Thirty-first Annual Meeting of the Association for Natural Language Processing (NLP 2025)](https://www.anlp.jp/proceedings/annual_meeting/2025/#:~:text=LM%20%E3%81%AF%E6%97%A5%E6%9C%AC%E3%81%AE%E6%99%82%E7%B3%BB%E5%88%97%E6%A7%8B%E9%80%A0%E3%82%92%E3%81%A9%E3%81%86%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89%E3%81%99%E3%82%8B%E3%81%8B)
+    - **Paper:** [PDF]({{ "/assets/papers/LMは日本の時系列構造をどうエンコードするか.pdf" | relative_url }})
 <hr>
 
 ## <a id="Domestic Workshop"></a> Domestic Workshop
