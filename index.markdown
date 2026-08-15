@@ -56,7 +56,7 @@ classes: research-home
 - **一様拡散言語モデルの能力獲得過程 (YANS2026)**
     - **Authors:** 佐々木睦史, 葉夢宇, 趙羽風, 工藤慧音, 坂口慶祐, 鈴木潤
     - **Conference:** [The 21st Symposium of Young Researcher Association for NLP Studies (YANS 2026)](https://yans.anlp.jp/entry/yans2026program#:~:text=%5BS1%2DP30%5D%20%E4%B8%80%E6%A7%98%E6%8B%A1%E6%95%A3%E8%A8%80%E8%AA%9E%E3%83%A2%E3%83%87%E3%83%AB%E3%81%AE%E8%83%BD%E5%8A%9B%E7%8D%B2%E5%BE%97%E9%81%8E%E7%A8%8B)
-    - **Poster**: Coming Soon
+    - **Poster**: [PDF]({{ "/assets/papers/YANS2026_poster.pdf" | relative_url }})
 - **排他的逆学習 (NLP2026)**
     - **Author:** 佐々木睦史, 中山功太, 宮尾祐介, 大関洋平, 磯沼大
     - **Conference:** [In Proceedings of the Thirty-second Annual Meeting of the Association for Natural Language Processing (NLP 2026)](https://www.anlp.jp/proceedings/annual_meeting/2026/#:~:text=B2%2D16,%E7%9A%84%E9%80%86%E5%AD%A6%E7%BF%92)
